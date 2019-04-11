@@ -1,1 +1,9 @@
-啊实打实
+  git  clone  github网络库地址
+
+  git add .  
+
+  git commit -m '注释'
+
+	//账号密码    如以记录则无需登陆
+  
+  git push 
